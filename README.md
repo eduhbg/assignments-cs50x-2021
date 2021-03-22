@@ -24,7 +24,7 @@ Hope you enjoy it! 👽
   	- arrays, segmentation fault
   	- argc (argument count), argv (argument vector)
   - Lab: [scrabble.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset2/scrabble.c)
-  - Problem Set 2: [readability.c](https://github.com/eduhbg/readability-test), [substitution.c](#)
+  - Problem Set 2: [readability.c](https://github.com/eduhbg/readability-test), [substitution.c](https://github.com/eduhbg/encrypt-message)
 - Week 3 Algorithms
 
 - Week 4 Memory
