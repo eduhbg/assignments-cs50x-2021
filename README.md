@@ -45,7 +45,16 @@ Hope you enjoy it! 👽
   - Lab: [scrabble.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset2/scrabble.c)
   - Problem Set 2: [readability.c](https://github.com/eduhbg/readability-test), [substitution.c](https://github.com/eduhbg/encrypt-message)
 - Week 3 Algorithms
-
+  - What I've learned:
+    - big O notation
+    - linear search
+    - binary search
+    - bubble sort
+    - selection sort
+    - merge sort
+    - recursion
+  - Lab: [sort.c](#)
+  - Problem Set 3: [tideman.c](#)
 - Week 4 Memory
 
 - Week 5 Data Structures
