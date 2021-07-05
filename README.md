@@ -53,7 +53,7 @@ Hope you enjoy it! 👽
     - selection sort
     - merge sort
     - recursion
-  - Lab: [sort.c](#)
+  - Lab: sort.c
   - Problem Set 3: [tideman.c](#)
 - Week 4 Memory
 
