@@ -1,6 +1,8 @@
 # 📂[CS50x 2021](https://cs50.harvard.edu/x/2021/)
 These are my own work for labs and assginments of CS50x 2021 by HarvardX.
 
+You can check all the text from labs and problems sets [here](https://cs50.harvard.edu/x/2021/weeks/0/).
+
 *All the scripts in C programming language are made into [CS50 IDE](https://ide.cs50.io/).*
 
 Hope you enjoy it! 👽
@@ -31,7 +33,7 @@ Hope you enjoy it! 👽
     - scope
     - floating-point imprecision
   - Lab: [hello.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/hello.c), [population.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/population.c)
-  - Problem Set 1: [mario.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/mario.c), [credit.c](https://github.com/eduhbg/validate-credit-card)
+  - Problem Set 1: [mario.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/mario.c), [credit.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/credit.c)
 - Week 2 Arrays
   - What I've learned:
     - debugging
@@ -43,7 +45,7 @@ Hope you enjoy it! 👽
   	- variables scope
   	- argc (argument count), argv (argument vector)
   - Lab: [scrabble.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset2/scrabble.c)
-  - Problem Set 2: [readability.c](https://github.com/eduhbg/readability-test), [substitution.c](https://github.com/eduhbg/encrypt-message)
+  - Problem Set 2: [readability.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset2/readability.c), [substitution.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset2/substitution.c)
 - Week 3 Algorithms
   - What I've learned:
     - big O notation
