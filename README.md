@@ -1,9 +1,9 @@
 # 📂[CS50x 2021](https://cs50.harvard.edu/x/2021/)
-These are my own work for labs and assginments of CS50x 2021 by HarvardX.
+These are my own work for labs and assignments of CS50x 2021 by HarvardX.
 
-You can check all the text from labs and problems sets [here](https://cs50.harvard.edu/x/2021/weeks/0/).
+You can check all the content about the labs and problems sets [here](https://cs50.harvard.edu/x/2021/weeks/0/).
 
-*All the scripts in C programming language are made into [CS50 IDE](https://ide.cs50.io/).*
+*All the scripts in the C programming language are made into [CS50 IDE](https://ide.cs50.io/).*
 
 Hope you enjoy it! 👽
 
@@ -28,7 +28,7 @@ Hope you enjoy it! 👽
     - types
     - truncation
     - typecasting
-    - syntatic sugar
+    - syntactic sugar
     - boolean
     - scope
     - floating-point imprecision
@@ -38,7 +38,7 @@ Hope you enjoy it! 👽
   - What I've learned:
     - debugging
     - memory
-    - arrays, array of strings, segmentation fault
+    - arrays, an array of strings, segmentation fault
     - exit status
     - cryptography
   	- parameters, return types, void
@@ -56,7 +56,7 @@ Hope you enjoy it! 👽
     - merge sort
     - recursion
   - Lab: sort.c
-  - Problem Set 3: [tideman.c](#)
+  - Problem Set 3: [plurality.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset3/plurality.c), [runoff.c](#), [tideman.c](#)
 - Week 4 Memory
 
 - Week 5 Data Structures
