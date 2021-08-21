@@ -33,7 +33,7 @@ Hope you enjoy it! 👽
     - scope
     - floating-point imprecision
   - Lab: [hello.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/hello.c), [population.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/population.c)
-  - Problem Set 1: [mario.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/mario.c), [cash.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/cash.c), [credit.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/credit.c)
+  - Problem Set 1: [mario_less.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/mario_less.c), [mario_more.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/mario_more.c), [cash.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/cash.c), [credit.c](https://github.com/eduhbg/assignments-cs50x-2021/blob/main/pset1/credit.c)
 - Week 2 Arrays
   - What I've learned:
     - debugging
